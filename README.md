@@ -1,4 +1,5 @@
-Exploring Airbnb Market Trends
+                                          **Exploring Airbnb Market Trends**
+
 Welcome to the "Exploring Airbnb Market Trends" project repository! In this project, we delve into the vast world of New York City Airbnb data to uncover insights and trends that can benefit real estate stakeholders and travelers alike.
 
 Project Description
